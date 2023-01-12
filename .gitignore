@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/raw data
+/processed data
+.idea/
+overview_constraints.xlsx
