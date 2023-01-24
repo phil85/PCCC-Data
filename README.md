@@ -6,7 +6,7 @@
 
 </h1>
 
-Data and constraint sets for clustering with hard and soft must-link and cannot-link constraints. A detailed description of the data can be found in https://arxiv.org/abs/2212.14437.
+Data and constraint sets for clustering with hard and soft must-link and cannot-link constraints. A detailed description of the data can be found in https://arxiv.org/abs/2212.14437. The code of the algorithm is available under https://github.com/phil85/PCCC-Algorithm.
 
 ## Dependencies
 
