@@ -90,8 +90,8 @@ def download_raw_data_of_collection_1():
         print('Data set', name, 'successfully downloaded.')
 
 
-def download_raw_data_of_collection_3():
-    path = 'raw data/COL3/'
+def download_raw_data_of_collection_4():
+    path = 'raw data/COL4_tmp/'
 
     zip_files = ['banana', 'letter', 'shuttle']
 
